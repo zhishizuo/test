@@ -1,5 +1,5 @@
 FROM centos
 
-CMD ["pip install -r requirmets.txt"]
+CMD ["pip install -r requirements.txt"]
 
 CMD ["python eleme.py"]
